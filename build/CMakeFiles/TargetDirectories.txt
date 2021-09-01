@@ -1,0 +1,3 @@
+/home/molho/CLionProjects/serve/build/CMakeFiles/rebuild_cache.dir
+/home/molho/CLionProjects/serve/build/CMakeFiles/edit_cache.dir
+/home/molho/CLionProjects/serve/build/CMakeFiles/serve.dir
